@@ -1,0 +1,21 @@
+<link rel="stylesheet" href="https://mkomsel.com/build/assets/app-32de6e23.css">
+<style>
+    .g-recaptcha {
+        display: inline-block;
+    }
+</style>
+<style>
+script + iframe { max-width:100% }
+</style>
+<style>
+    .btn-share {
+        color: #fff!important;
+        display: flex;
+        align-items: center;
+        padding: 4px 12px;
+        border-radius: 6px;
+        width: fit-content;
+        margin-right: 8px;
+        text-decoration: none !important;
+    }
+</style>
